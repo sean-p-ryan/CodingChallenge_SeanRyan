@@ -19,7 +19,7 @@ The cat tax calculator will be built using the following technologies:
 
 ## How do I start this project? 
 
-In order to start writing code, please fork and clone down the project from GitHub. Once cloned, please create a new branch titled yourname_dev. 
+In order to start writing code, please clone down the project from GitHub. Once cloned, please create a new branch titled yourname_dev. Push all commits to your branch.  
 
 ## How do I walk through this project? 
 
@@ -33,7 +33,7 @@ In order to deploy your code, we are asking you to set up a free [Netlify](https
 
 ## Submitting the final version of your challenge. 
 
-In order to complete the project, submit a pull request to the original project. 
+In order to complete the project, submit a pull requests. 
 
 ## Time Constraints
 
